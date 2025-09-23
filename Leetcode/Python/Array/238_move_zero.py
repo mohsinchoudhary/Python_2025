@@ -25,7 +25,7 @@ class Solution:
             return nums
         
 sol= Solution()
-nums = [10,1,0,0,3,12]
+nums = [0,1,0,0,3,12]
 #print(nums)
 print(sol.moveZeroes(nums))
         
