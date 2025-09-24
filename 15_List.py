@@ -10,7 +10,7 @@ food = ["pizza","hamburger","hotdog","spaghetti"]
 #we can always update and change elements
 food[0] = "sushi"
 #print(food[0])
-
+quit()
 
 #print all elements in index using a loop
 #for x in food:

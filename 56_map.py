@@ -14,5 +14,5 @@ store_euros = list(map(to_euros,store))
 
 store_dollar = list(map(to_dollars,store))
 
-for i in to_euros:
+for i in store_euros:
     print(i)
